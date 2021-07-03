@@ -10,5 +10,6 @@
 #include <sstream>
 #include <locale>
 #include <vector>
+#include <fstream>
 
 #endif //CAL_WORK_HOURS_CPP_COMMON_HEADERS_H
